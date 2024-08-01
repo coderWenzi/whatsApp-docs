@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: 'whatsApp系统指南',
-  base: '/docs/',
+  base: '/whatsApp-docs/',
   description: 'A VitePress Site',
   themeConfig: {
     outlineTitle: '文章目录',
