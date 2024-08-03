@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 教程起步
-      link: /api-examples
+      link: /page/00/在线聊天/快速入门在线聊天
     - theme: alt
       text: 系统官网
       link: https://www.baidu.com
